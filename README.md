@@ -3,14 +3,57 @@
 <!--
 **Jared-tm/Jared-tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Yared 👋</h1>
+<p align="center">
+  🚀 Electrical & Computer Engineering Student | Aspiring Embedded Systems & AI Engineer  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🎓 I'm studying Electrical and Computer Engineering at AAU.
+- ⚙️ I’m interested in Embedded Systems, Robotics, and AI-powered hardware and software Engineering.
+- 🧩 I love solving algorithmic problems and building real-world tech projects.
+- 🛠️ Currently working on mastering the Full Stack app development and Data Structures & Algorithms.
+
+---
+
+### 📊 LeetCode & GitHub Stats
+
+<!-- LeetCode Badge -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+<!-- GitHub Stats -->
+![Yared's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+### 📁 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+
+---
+
+### 🧭 Current Roadmap
+
+- ✅ Full Stack web dev
+- ✅ Master MERN Stack (MongoDB, Express, React, Node)
+- ✅ Build real-world DSA fluency
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email:yaredtamir777@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/yared-tamir/
+- 🐦 Twitter: https://x.com/Yared__Mitiku
+---
+
+> _"Let your craft be a reflection of yourself."
+
+
