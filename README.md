@@ -30,11 +30,7 @@
 
 <!-- LeetCode Badge -->
 [[![LeetCode Stats](https://leetcard.jacoblin.cool/Jared_tm?theme=dark&font=JetBrains+Mono)](https://leetcode.com/Jared_tm)]
-<!-- GitHub Stats -->
-![Yared's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jared-tm&show_icons=true&theme=github_dark)
 
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-tm&layout=compact&theme=github_dark)
 
 ---
 
