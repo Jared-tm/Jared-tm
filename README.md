@@ -20,8 +20,8 @@
 ### 🧠 About Me
 
 - 🎓 I'm studying Electrical and Computer Engineering at AAU.
-- ⚙️ I’m interested in Embedded Systems, Robotics, and AI-powered hardware and software Engineering.
-- 🧩 I love solving algorithmic problems and building real-world tech projects.
+- ⚙️ interested in Embedded Systems, Robotics, and AI-powered hardware and software Engineering.
+- 🧩 love solving algorithmic problems and building real-world tech projects.
 - 🛠️ Currently working on mastering the Full Stack app development and Data Structures & Algorithms.
 
 ---
@@ -43,17 +43,17 @@
 
 ### 🧭 Current Roadmap
 
-- ✅ Full Stack web dev
-- ✅ Master MERN Stack (MongoDB, Express, React, Node)
-- ✅ Build real-world DSA fluency
+- ✅ Learning Full Stack web dev
+- ✅ Mastering MERN Stack (MongoDB, Express, React, Node)
+- ✅ plan: Build real-world project
 
 ---
 
 ### 📫 Let's Connect
 
 - 📧 Email:yaredtamir777@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/yared-tamir/
-- 🐦 Twitter: https://x.com/Yared__Mitiku
+-  LinkedIn: https://www.linkedin.com/in/yared-tamir/
+-  X: https://x.com/Yared__Mitiku
 ---
 
 > _"Let your craft be a reflection of yourself."
