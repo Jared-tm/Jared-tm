@@ -56,6 +56,3 @@
 -  X: https://x.com/Yared__Mitiku
 ---
 
-> _"Let your craft be a reflection of yourself."
-
-
