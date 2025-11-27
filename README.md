@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-    👋 I’m @Jared-tm
-    🌱 I’m currently learning full-stack web development.
-    🇪🇹 Ethiopian
-    Tech Enthusiast
+    👋 I’m Yared Tamir, Aspiring full-stack developer.
+    🇪🇹 Ethiopian Tech Enthusiast
 
 
 
@@ -12,7 +10,7 @@
 
 <h1 align="center">Hi, I'm Yared 👋</h1>
 <p align="center">
-  🚀 Electrical & Computer Engineering Student | Aspiring Embedded Systems & AI Engineer  
+  🚀 Electrical & Computer Engineering Student
 </p>
 
 ---
@@ -34,18 +32,11 @@
 
 ---
 
-### 📁 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-
----
-
 ### 🧭 Current Roadmap
 
 - ✅ Learning Full Stack web dev
 - ✅ Mastering MERN Stack (MongoDB, Express, React, Node)
-- ✅ plan: Build real-world project
+- ✅ Mastering Data Structures and Algorithm
 
 ---
 
