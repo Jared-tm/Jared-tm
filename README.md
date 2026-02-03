@@ -27,7 +27,7 @@
 ### 📊 LeetCode & GitHub Stats
 
 <!-- LeetCode Badge -->
-[[![LeetCode Stats](https://leetcard.jacoblin.cool/Jared_tm?theme=dark&font=JetBrains+Mono)](https://leetcode.com/Jared_tm)]
+[[![LeetCode Stats](https://leetcard.jacoblin.cool/Jared_tm?theme=dark&font=JetBrains+Mono)](https://leetcode.com/u/yared_t_m/)]
 
 
 ---
